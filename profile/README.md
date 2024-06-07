@@ -1,3 +1,9 @@
+<div align="center">
+<h2>
+<img src="https://github.com/BlankTech-dev/.github/blob/main/profile/BlankTechBanner.png?raw=true">
+</h2>
+</div>
+
 ## Hi there 👋
 
 <!--
