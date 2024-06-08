@@ -5,7 +5,7 @@
 </div>
 
 ## Who are we? 🧐
-BlankTech LLC is a team of seasoned developers with over 5 years of experience, specializing in building advanced CMS solutions using NestJS and ReactJS. Our ready-to-go CMS platform, available via subscription, is designed to empower businesses with robust, customizable content management capabilities.
+- BlankTech LLC is a team of seasoned developers with over 5 years of experience, specializing in building advanced CMS solutions using NestJS and ReactJS. Our ready-to-go CMS platform, available via subscription, is designed to empower businesses with robust, customizable content management capabilities.
 
 ### Community and Support
 - Join our community: [Slack Channel](https://join.slack.com/t/blanktechllc/shared_invite/zt-2kqfeyu1s-0PU34uFEeD5DW9mXDIH_rQ)
