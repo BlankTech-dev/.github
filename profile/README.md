@@ -4,7 +4,7 @@
 </h2>
 </div>
 
-## Who are we? 🧐
+### Who are we? 🧐
 - BlankTech LLC is a team of seasoned developers with over 5 years of experience, specializing in building advanced CMS solutions using NestJS and ReactJS. Our ready-to-go CMS platform, available via subscription, is designed to empower businesses with robust, customizable content management capabilities.
 
 ### Community and Support
